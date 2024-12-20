@@ -1,0 +1,6 @@
+streamlit
+torch
+torchvision
+pillow
+requests
+groq
